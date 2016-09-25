@@ -21,7 +21,7 @@
 * more complex букаф's dependancy on each other in context with graph representation and ability to filter complex structures of букаф instead of separate букаф.  
 
 **NOT TODO:**  
-* language syntax support should be delegated to separate filter because user might be interested in highlighting of unknown syntax and  de-emphasize known syntax.  
+* language syntax support should be delegated to separate filter because user might be interested in highlighting of unknown syntax and  de-emphasizing of known syntax.  
 
 [1]: https://youtu.be/d_H-BjA7utA "Привет Михалкову"
 [2]: /input.txt "ВХОД#1"
