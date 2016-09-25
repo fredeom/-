@@ -1,0 +1,27 @@
+the a of to is and that in be for are as The scheme g not reference by
+or http character it from used an path may with August Track Generic
+characters syntax document base within Page authority resource components
+sequence ASCII This any if In Internet other query been their It all does
+protocol s do hierarchical form each more slash specific reflect precedence
+rfc regarding representing semicolon requierements
+component Syntax which fragment on some has its set its reference should
+this such was name For absolute Standards case only port have identifier
+Section then result password performed resolved space structure unescaped
+MIME Since There WWW We
+schemes escaped defined Berners will alphanum where part semantic Resource string
+common www abs_path userinfo using Base we given practice append
+considered describe different empty segment those since they without described Uniform
+use can there since unreserved than digit example define above information generic
+relative but current one HTML resources semantics If alpha many retrieval data host
+Lee order context complete US entity algorithm edu embedded hier_part identifiers
+user An most reserved
+when references domain might must octets server types both contains defines documents network
+octet parsing However because no particular purpose represented separated two Note allow also
+at being buffer dependent excluded grammar how include interpreted into media namespace often present
+undefined Although Appendix Relative access after allowed based between description encoding followed following
+four hex ics line mark names new number removed resolving same segments separate single specification term thus
+1F 7F 7e AS As CA CR EN IP IS LF MA No OF OR TO To X3 al ch co ds et so up w3 za
+via way why yet you URI References All Within around cannot elements mapping required separator
+special
+RFC URI BNF URN URI's URLs URL URL's uci uric ftp file com DNS HREF IPv4 IPv6 ISO MIT
+RFC1034 RFC1123 RFC1736 RFC1737 RFC2046 RFC2141 RFC2277 RFC822
