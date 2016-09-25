@@ -3,11 +3,11 @@
 **Завести / Run**:
 > python my.py
 
-**Input(_input.txt_):** текст... сложнаааа  
-**Input(_filter.txt_):** понятные букавы  
-**Output(_output1.txt_):** букавы и их частота  
-**Output(_output2.txt_):** букавы и их длина  
-**Program(_my.py_):** читает букавы из input.txt (за вас!), пропускает мимо букавы из filter.txt (ну вы же их знаете) и выводит статистику в двух формах output1.txt (частота появления в тексте), output2.txt (тоже что и output1.txt, но отсортированы по длине букавы).  
+**Input(_[input.txt](/input.txt)_):** текст... сложнаааа  
+**Input(_[filter.txt](/filter.txt)_):** понятные букавы  
+**Output(_[output1.txt](/output1.txt)_):** букавы и их частота  
+**Output(_[output2.txt](/output2.txt)_):** букавы и их длина  
+**Program(_[my.py](/my.py)_):** читает букавы из input.txt (за вас!), пропускает мимо букавы из filter.txt (ну вы же их знаете) и выводит статистику в двух формах output1.txt (частота появления в тексте), output2.txt (тоже что и output1.txt, но отсортированы по длине букавы).  
 
 **Limitations:**  
 1. https://www.python.org/downloads/ нужен  
